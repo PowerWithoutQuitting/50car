@@ -23,7 +23,7 @@ wulingthird是基于 https://github.com/hasscc/wuling  开发的五菱新能源�
  
 📦 安装与使用
  
-1. 从项目Release页面下载安装包（Hap）
+1. 从项目Release页面下载安装包（Hap）暂时不考虑上架华为应用市场，安装参考https://github.com/likuai2010/auto-installer（Auto-Installer是基于开源OpenHarmony项目的Hdc工具。该项目致力于为简化开发调试体验。我们正在积极开发中，以满足鸿蒙开发者随时调试应用需求。）
 2. 安装完成后，按照指引配置API Token，完成车辆绑定
 3. API Token自行获取
 4. 绑定成功后，即可使用全部车控与监控功能
